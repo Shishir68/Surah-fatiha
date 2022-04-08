@@ -1,0 +1,16 @@
+body {
+    font-size: 15pt;
+    background-color: lightskyblue;
+}
+
+h1{
+  font-size: 80px;
+  text-align: center;
+}
+hr{
+  background-color: rebeccapurple;
+}
+p{
+  text-align: center;
+  font-size: 80px;
+}
